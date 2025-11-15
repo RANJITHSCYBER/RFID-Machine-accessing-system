@@ -659,12 +659,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/RANJITHSCYBER)
+- Email: ranjithscreations@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -695,3 +694,4 @@ Future enhancements:
 ---
 
 **⭐ If you find this project useful, please give it a star!**
+

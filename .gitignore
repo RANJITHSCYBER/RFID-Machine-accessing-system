@@ -1,0 +1,67 @@
+# Arduino IDE
+*.hex
+*.elf
+*.bin
+*.eep
+*.lss
+*.sym
+*.map
+*.su
+*.d
+*.o
+*.a
+*.la
+*.lo
+*.P
+*.lai
+*.ii
+*.s
+*.S
+*.ipp
+*.mk
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.gcno
+*.gcda
+*.gcov
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.gcno
+*.gcda
+*.gcov
+
+# Build directories
+build/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*~
+*.swp
+*.tmp
+
+# Arduino IDE settings
+.settings/
+*.prefs
+
+# Compiled files
+*.hex
+*.elf
+*.bin
+
+# Libraries (if included)
+libraries/
+
+# Documentation build
+docs/_build/
+
